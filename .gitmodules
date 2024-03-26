@@ -1,0 +1,9 @@
+[submodule "jobms"]
+	path = jobms
+	url = https://github.com/felixojiambo/jobs.git
+[submodule "reviewms"]
+	path = reviewms
+	url = https://github.com/felixojiambo/reviews.git
+[submodule "companyms"]
+	path = companyms
+	url = https://github.com/felixojiambo/companies.git

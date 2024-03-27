@@ -7,3 +7,6 @@
 [submodule "companyms"]
 	path = companyms
 	url = https://github.com/felixojiambo/companies.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/felixojiambo/service-registry.git

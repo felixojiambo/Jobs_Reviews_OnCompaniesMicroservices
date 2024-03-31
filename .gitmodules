@@ -13,3 +13,6 @@
 [submodule "configserver"]
 	path = configserver
 	url = https://github.com/felixojiambo/configserver.git
+[submodule "APIGATEWAYJobsReviewsOnCompanies"]
+	path = APIGATEWAYJobsReviewsOnCompanies
+	url = https://github.com/felixojiambo/APIGATEWAYJobsReviewsOnCompanies.git

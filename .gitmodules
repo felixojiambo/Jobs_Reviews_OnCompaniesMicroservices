@@ -10,3 +10,6 @@
 [submodule "service-registry"]
 	path = service-registry
 	url = https://github.com/felixojiambo/service-registry.git
+[submodule "configserver"]
+	path = configserver
+	url = https://github.com/felixojiambo/configserver.git

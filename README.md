@@ -21,7 +21,7 @@ Technologies Used
 
 Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/felixojiambo/Jobs_Reviews_OnCompaniesMicroservices.git`
+1. Clone the repository: `git clone https://github.com/felixojiambo/Jobs_Reviews_OnCompanies.git`
 2.Navigate to the project directory: `cd Jobs_Reviews_OnCompaniesMicroservices`
 3.Initialize and update submodules: Run `git submodule update --init --recursive` to clone the submodules.
 4. Build the project: `./mvnw clean install` (This command builds the project and runs tests. Adjust if your project uses a different build tool.)
